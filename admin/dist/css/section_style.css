@@ -1,0 +1,14 @@
+.section_wrapper {
+	width: 98%;
+	margin: auto;
+}
+
+.submit-btn {
+	position: fixed;
+	bottom: 48px;
+	right: 15px;
+}
+
+.menu_text {
+	margin-right: 50px;
+}

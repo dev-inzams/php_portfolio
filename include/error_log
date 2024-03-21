@@ -1,0 +1,18 @@
+[14-Jan-2023 17:39:12 UTC] PHP Warning:  Undefined variable $description_ in /home/jabaehan/public_html/inzams.com/include/post.php on line 31
+[14-Jan-2023 17:39:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1,'','Description 2','14-01-23')' at line 1 in /home/jabaehan/public_html/inzams.com/include/post.php:32
+Stack trace:
+#0 /home/jabaehan/public_html/inzams.com/include/post.php(32): mysqli_query()
+#1 {main}
+  thrown in /home/jabaehan/public_html/inzams.com/include/post.php on line 32
+[14-Jan-2023 17:40:35 UTC] PHP Warning:  Undefined variable $description_ in /home/jabaehan/public_html/inzams.com/include/post.php on line 31
+[14-Jan-2023 17:40:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1,'','Description 2','14-01-23')' at line 1 in /home/jabaehan/public_html/inzams.com/include/post.php:32
+Stack trace:
+#0 /home/jabaehan/public_html/inzams.com/include/post.php(32): mysqli_query()
+#1 {main}
+  thrown in /home/jabaehan/public_html/inzams.com/include/post.php on line 32
+[10-Feb-2023 21:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/jabaehan/public_html/inzams.com/include/data.php:64
+Stack trace:
+#0 /home/jabaehan/public_html/inzams.com/include/data.php(6): Act->point()
+#1 /home/jabaehan/public_html/inzams.com/include/data.php(412): Act->__construct()
+#2 {main}
+  thrown in /home/jabaehan/public_html/inzams.com/include/data.php on line 64

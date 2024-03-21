@@ -1,0 +1,6 @@
+[10-Feb-2023 21:22:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/jabaehan/public_html/inzams.com/include/delete/module.php:64
+Stack trace:
+#0 /home/jabaehan/public_html/inzams.com/include/delete/module.php(6): Act->point()
+#1 /home/jabaehan/public_html/inzams.com/include/delete/module.php(412): Act->__construct()
+#2 {main}
+  thrown in /home/jabaehan/public_html/inzams.com/include/delete/module.php on line 64
